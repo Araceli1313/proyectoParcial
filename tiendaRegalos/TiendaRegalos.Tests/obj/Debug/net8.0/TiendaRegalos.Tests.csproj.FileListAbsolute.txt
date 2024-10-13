@@ -1,0 +1,5 @@
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\TiendaRegalos.Tests\obj\Debug\net8.0\TiendaRegalos.Tests.csproj.AssemblyReference.cache
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\TiendaRegalos.Tests\obj\Debug\net8.0\TiendaRegalos.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\TiendaRegalos.Tests\obj\Debug\net8.0\TiendaRegalos.Tests.AssemblyInfoInputs.cache
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\TiendaRegalos.Tests\obj\Debug\net8.0\TiendaRegalos.Tests.AssemblyInfo.cs
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\TiendaRegalos.Tests\obj\Debug\net8.0\TiendaRegalos.Tests.csproj.CoreCompileInputs.cache
